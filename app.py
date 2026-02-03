@@ -57,3 +57,4 @@ st.plotly_chart(fig, use_container_width=True)
 st.markdown("<h3 style='text-align: center;'>Puedes tocarlo y girarlo jejeje </h3>", unsafe_allow_html=True)
 st.write("<p style='text-align: center;'>Eres el amor de mia vida<3</p>", unsafe_allow_html=True)
 
+
